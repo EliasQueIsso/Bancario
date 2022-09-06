@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\bancario\bancario\bin\Debug\bancario.exe.config
+C:\Users\Aluno\Desktop\bancario\bancario\bin\Debug\bancario.exe
+C:\Users\Aluno\Desktop\bancario\bancario\bin\Debug\bancario.pdb
+C:\Users\Aluno\Desktop\bancario\bancario\obj\Debug\bancario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\bancario\bancario\obj\Debug\bancario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\bancario\bancario\obj\Debug\bancario.exe
+C:\Users\Aluno\Desktop\bancario\bancario\obj\Debug\bancario.pdb
+F:\bancario\bancario\bin\Debug\bancario.exe.config
+F:\bancario\bancario\bin\Debug\bancario.exe
+F:\bancario\bancario\bin\Debug\bancario.pdb
+F:\bancario\bancario\obj\Debug\bancario.csproj.AssemblyReference.cache
+F:\bancario\bancario\obj\Debug\bancario.csproj.CoreCompileInputs.cache
+F:\bancario\bancario\obj\Debug\bancario.exe
+F:\bancario\bancario\obj\Debug\bancario.pdb
